@@ -8,7 +8,7 @@ There are no repeated words.
 
 All words are between five and eight letters long.
 
-All lines are numbered starting at 111111 and ending with 666666. There are no numbers containing 7, 8, 9, or 0. Each line only contains the numbers 1-6. 
+All lines are numbered starting with 111111 and ending with 666666. There are no numbers containing 7, 8, 9, or 0. Each line only contains the numbers 1-6. 
 
 This list does contain multiple words with the same root (e.g., where, whereas, and whereat).
 
