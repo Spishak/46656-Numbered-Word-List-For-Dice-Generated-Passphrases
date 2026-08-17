@@ -16,7 +16,7 @@ Since this list has many words that use the same root some people may advise you
 
 Use this list at your own risk!
 
-This list is an inspiration of the Electronic Frontier Foundations Dice-Generated Passphrases - https://www.eff.org/dice - This is just a much much larger list of words, EFF with a 7,776 word list vs this list with 46,656 words.
+This list is an inspiration of the Electronic Frontier Foundations Dice-Generated Passphrases - https://www.eff.org/dice - This is just a much much larger list of words, <a href="[url](https://www.eff.org/files/2016/07/18/eff_large_wordlist.txt)">EFF</a> with a 7,776 word list vs this list with 46,656 words.
 
 To us this list:
 
