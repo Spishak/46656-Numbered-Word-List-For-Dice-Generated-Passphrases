@@ -1,6 +1,7 @@
 # 46656-Numbered-Word-List-For-Dice-Generated-Passphrases
 A numbered word list for passphrase generation
 
+This list is an inspiration of the Electronic Frontier Foundations Dice-Generated Passphrases - https://www.eff.org/dice - This is just a much much larger list of words, EFF with a 7,776 word list vs this list with 46,656 words.
 
 This is an AI generated list of 46,656 common and uncommon English words. 
 
@@ -16,9 +17,7 @@ Since this list has many words that use the same root some people may advise you
 
 Use this list at your own risk!
 
-This list is an inspiration of the Electronic Frontier Foundations Dice-Generated Passphrases - https://www.eff.org/dice - This is just a much much larger list of words, <a href="[url](https://www.eff.org/files/2016/07/18/eff_large_wordlist.txt)">EFF</a> with a 7,776 word list vs this list with 46,656 words.
-
-To us this list:
+To use this list:
 
 Roll six d6 (six sided) dice.
 
@@ -26,7 +25,7 @@ Write down the number.
 
 Find the number on the list, and write down the word next to it.
 
-EFF recommends making a passphrase at least six words long.
+EFF recommends making a passphrase at least six words long. EFF knows way more than me, so I say roll at least five more times.
 
 Roll the dice at least five more times until you have at least six words.
 
