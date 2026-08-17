@@ -1,4 +1,4 @@
-This list is an inspiration of the Electronic Frontier Foundations Dice-Generated Passphrases - https://www.eff.org/dice - This is just a much much larger list of words, EFF with a 7,776 word list vs this list with 46,656 words.
+This list is an inspiration of the Electronic Frontier Foundations Dice-Generated Passphrases - https://www.eff.org/dice - This is just a much much larger list of words, EFF with a 7,776 word list vs this list with 46,656 words. This list is extreme overkill when creating a passphrase. The EFF list is more than adequate to generate secure passphrases. If you feel like you need 46,656 random words to generate a passphrase, well here it is! More words on the list has to better right??
 
 This is an AI generated list of 46,656 common and uncommon English words. 
 
