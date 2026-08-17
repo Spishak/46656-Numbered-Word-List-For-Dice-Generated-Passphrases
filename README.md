@@ -10,7 +10,7 @@ All lines are numbered starting with 111111 and ending with 666666. There are no
 
 This list does contain multiple words with the same root (e.g., where, whereas, and whereat).
 
-Since this list has many words that use the same root some people may advise you not to use it due to possible transcription errors. I personally dont see this as a problem, but many do.
+Since this list has many words that use the same root or are uncommon some people may advise you not to use it due to possible transcription errors. I personally dont see this as a problem, but many do.
 
 Use this list at your own risk!
 
