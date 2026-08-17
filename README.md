@@ -1,6 +1,3 @@
-# 46656-Numbered-Word-List-For-Dice-Generated-Passphrases
-A numbered word list for passphrase generation
-
 This list is an inspiration of the Electronic Frontier Foundations Dice-Generated Passphrases - https://www.eff.org/dice - This is just a much much larger list of words, EFF with a 7,776 word list vs this list with 46,656 words.
 
 This is an AI generated list of 46,656 common and uncommon English words. 
