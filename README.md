@@ -1,12 +1,12 @@
 This list is an inspiration of the Electronic Frontier Foundations Dice-Generated Passphrases - https://www.eff.org/dice - This is just a much much larger list of words, EFF with a 7,776 word list vs this list with 46,656 words. This list is extreme overkill when creating a passphrase. The EFF list is more than adequate to generate secure passphrases, but if you feel like you need 46,656 random words to generate a passphrase, well here it is! More words on the list has to better right??
 
-This is an AI generated list of 46,656 common and uncommon English words. 
+This is an AI generated list of 46,656 common and uncommon English words.
 
 There are no repeated words.
 
 All words are between five and ten letters long.
 
-All lines are numbered starting with 111111 and ending with 666666. There are no numbers containing 7, 8, 9, or 0. Each line only contains the numbers 1-6. 
+All lines are numbered starting with 111111 and ending with 666666. There are no numbers containing 7, 8, 9, or 0. Each line only contains the numbers 1-6.
 
 This list does contain multiple words with the same root (e.g., where, whereas, and whereat).
 
