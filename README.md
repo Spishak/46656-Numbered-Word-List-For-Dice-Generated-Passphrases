@@ -1,29 +1,31 @@
-This list is an inspiration of the Electronic Frontier Foundations Dice-Generated Passphrases - https://www.eff.org/dice - This is just a much much larger list of words, EFF with a 7,776 word list vs this list with 46,656 words. This list is extreme overkill when creating a passphrase. The EFF list is more than adequate to generate secure passphrases, but if you feel like you need 46,656 random words to generate a passphrase, well here it is! More words on the list has to better right??
+About This List
 
-This is an AI generated list of 46,656 common and uncommon English words.
+This list was inspired by the Electronic Frontier Foundation’s dice-generated passphrase wordlists. The EFF’s long wordlist contains 7,776 words, while this list contains 46,656 making it considerably larger and, for most purposes, extreme overkill.
 
-There are no repeated words.
+The EFF wordlists are more than adequate for generating secure passphrases. However, if you have ever thought, “More words must be better, right?”, here you go!
 
-All words are between five and ten letters long.
+This AI-generated list contains 46,656 common and uncommon English words.
 
-All lines are numbered starting with 111111 and ending with 666666. There are no numbers containing 7, 8, 9, or 0. Each line only contains the numbers 1-6.
+No word is repeated.
+Every word is between five and ten letters long.
+Entries are numbered from 111111 through 666666.
+Each number contains only the digits 1 through 6; none contains 0, 7, 8, or 9.
+Some entries share the same root for example, where, whereas, and whereat.
 
-This list does contain multiple words with the same root (e.g., where, whereas, and whereat).
+Because the list includes uncommon words and groups of words with the same root, it may be more prone to recognition, spelling, or transcription errors than a carefully curated list such as the EFF’s. Some people may also prefer a shorter wordlist because it is easier to review and use.
 
-Since this list has many words that use the same root or are uncommon some people may advise you not to use it due to possible transcription errors. They will also tell you that nobody needs a list this long, and that the shorter lists are better. I personally dont see this as a problem, but many do. This was just a fun quick project I made for myself, and thought someone else might like it as well.
+I created this as a fun personal project and thought others might enjoy it too. It has not been professionally audited or validated for cryptographic use.
 
-Use this list at your own risk!
+Use this list at your own risk.
 
-To use this list:
+How to Use the List
+Roll six six-sided dice.
+Record the six digits in the order rolled.
+Find the corresponding six-digit number in the list.
+Write down the word beside that number.
+Repeat the process until you have at least six words.
+Combine the words to create your passphrase.
 
-Roll six d6 (six sided) dice.
-
-Write down the number.
-
-Find the number on the list, and write down the word next to it.
-
-EFF recommends making a passphrase at least six words long. EFF knows way more than me, so I say roll at least five more times.
-
-Roll the dice at least five more times until you have at least six words.
+The EFF recommends using a passphrase of at least six randomly selected words. They know far more about digital security than I do, so following their guidance is a good idea.
 
 Your passphrase is complete!
