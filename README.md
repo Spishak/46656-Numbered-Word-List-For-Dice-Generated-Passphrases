@@ -19,11 +19,17 @@ I created this as a fun personal project and thought others might enjoy it too. 
 Use this list at your own risk.
 
 How to Use the List
+
 Roll six six-sided dice.
+
 Record the six digits in the order rolled.
+
 Find the corresponding six-digit number in the list.
+
 Write down the word beside that number.
+
 Repeat the process until you have at least six words.
+
 Combine the words to create your passphrase.
 
 The EFF recommends using a passphrase of at least six randomly selected words. They know far more about digital security than I do, so following their guidance is a good idea.
